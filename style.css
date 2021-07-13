@@ -16,14 +16,19 @@ flex-direction: row;
 padding-left: 200px;
 color: cornsilk;
 }
-
+.title-name p{
+    font-size: 25px;
+}
+.title-name .fab{
+    font-size: 40px;
+}
 .fa-glide-g{
     color: coral;
     padding-top: 20px;
 }
 .link{
    text-align: center;
-   padding-left: 580px;
+   padding-left: 550px;
    padding-top: 30px;
    
 }
@@ -33,6 +38,7 @@ color: cornsilk;
     text-decoration: none;
     padding-right: 50px;
 }
+
 
 
 /* common style */
