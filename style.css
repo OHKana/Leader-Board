@@ -151,6 +151,8 @@ main{
 }
 .course-duration{
     background-color: coral;
-    border-radius: 10px;
+    border-radius: 14.69px;
     margin-left: 40px;
+    padding: 5px;
+    font-size: 14.69px ;
 }
